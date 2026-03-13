@@ -90,7 +90,7 @@ rag_local/
 Clone the repository:
 
 
-git clone https://github.com/YOUR_USERNAME/rag_local.git
+git clone https://github.com/Oalonso11/reg-local-assistant/blob/main/README.md
 
 cd rag_local
 
