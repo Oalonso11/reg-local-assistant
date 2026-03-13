@@ -1,9 +1,22 @@
-venv/ 
-__pycache__/ 
-*.pyc 
- 
-chroma_db/ 
- 
-.env 
- 
-data/*.pdf 
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environments
+venv/
+.venv/
+
+# Vector database
+db/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# VSCode
+.vscode/
+
+# Ignore PDFs except example
+data/*
+!data/art92.pdf
